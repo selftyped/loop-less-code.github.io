@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[loop less code]]></title>
   <link href="http://loop-less-code.github.io/atom.xml" rel="self"/>
   <link href="http://loop-less-code.github.io/"/>
-  <updated>2013-04-22T15:14:52+05:30</updated>
+  <updated>2013-04-22T15:50:31+05:30</updated>
   <id>http://loop-less-code.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rajesh Pitty]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
