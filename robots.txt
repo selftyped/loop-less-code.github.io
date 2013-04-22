@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://loop-less-code.github.io/sitemap.xml 
